@@ -1,4 +1,4 @@
-package com.example.Zibal.Project;
+package com.zibal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
